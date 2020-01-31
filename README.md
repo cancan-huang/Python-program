@@ -51,3 +51,5 @@ def course_grade_caculation( times , homework_per, fina_per,course_code):
     return print('Your grade of '+ str(course_code)+ ' is :' + str(final_grades)\
     +'! You get '+ level + "!" )
 ```
+**Take Away:How to run python in Atom**    
+Install the 'Hydrogen' Package in the Atom settings
