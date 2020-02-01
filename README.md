@@ -83,7 +83,7 @@ if times >= 10:
 
 ```
 
-*2nd:To create the 9*9*
+*2nd:To create the 9 × 9*
 ```
 # To create the 9*9
 # below is the exercise answer:
